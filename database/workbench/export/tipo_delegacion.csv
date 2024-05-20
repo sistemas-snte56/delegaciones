@@ -1,0 +1,4 @@
+id,tipo,created_at,updated_at
+1,ACTIVOS,NULL,NULL
+2,JUBILADOS,NULL,NULL
+3,"CENTRO DE TRABAJO",NULL,NULL

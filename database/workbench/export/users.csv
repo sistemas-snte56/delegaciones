@@ -1,0 +1,2 @@
+id,name,email,email_verified_at,password,two_factor_secret,two_factor_recovery_codes,two_factor_confirmed_at,remember_token,current_team_id,profile_photo_path,IsAdmin,created_at,updated_at
+1,"Vicente Juárez Alarcón",vjuarez@delegaciones.org,NULL,$2y$12$XcMukcrqsxOnJiCl2o.3TuaiYUaonw6FVUbWwiQbSZNAS35bL1zTu,NULL,NULL,NULL,NULL,NULL,profile-photos/Qs5MEjdmqrkt1ZCwsyNEQSUqThyDkBGQApAfDw8J.png,0,"2024-02-06 20:40:31","2024-02-09 19:02:56"

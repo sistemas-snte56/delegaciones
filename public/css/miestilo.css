@@ -1,0 +1,19 @@
+.miestilo{
+    text-align: center; /* Centrar el texto */
+    background-color: magenta; /* Color de fondo magenta */
+    color: white; /* Color de fuente blanco */
+    border: 2px solid green; /* Borde de 2px de ancho y color verde */
+    width: 100%; /* Ancho del elemento al 100% */
+    margin: 2em 0; /* Margen superior e inferior de 2em, margen izquierdo y derecho de 0 */
+    padding: 2em; /* Padding de 2em */
+}
+
+.contenedor {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px; /* Puedes ajustar este valor según tus necesidades */
+    background-color: #ccc; /* Color de fondo gris */
+    color: #fff; /* Color del texto blanco */
+    text-align: center; /* Texto centrado */
+    padding: 20px; /* Espacio interior */
+}

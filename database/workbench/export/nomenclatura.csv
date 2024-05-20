@@ -1,0 +1,6 @@
+id,nomenclatura,id_tipo_delegacion,created_at,updated_at
+1,D-I-,1,NULL,NULL
+2,D-II-,1,NULL,NULL
+3,D-III-,1,NULL,NULL
+4,D-IV-,2,NULL,NULL
+5,C.T.,3,NULL,NULL
